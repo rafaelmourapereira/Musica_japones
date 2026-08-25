@@ -3,11 +3,11 @@ const readline = require('readline');
 
 // Playlist de músicas japonesas
 const playlist = [
-    { title: "Gurenge", artist: "LiSA" },
-        { title: "Yoru ni Kakeru", artist: "YOASOBI" },
-            { title: "Lemon", artist: "Kenshi Yonezu" },
-                { title: "Kaikai Kitan", artist: "Eve" },
-                    { title: "Stay With Me", artist: "Miki Matsubara" }
+    { title: "Akaza's Love Theme", artist: "Pharozen" },
+        { title: "Mankai*Smile!", artist: "Hitomi Yoshida" },
+            { title: "Change Zenkai! Zenkaiger", artist: "Daiki Ise" },
+                { title: "Wasurekaketa Fairly Tale", artist: "Hironobu Kageyama" },
+                    { title: "Ojamajo Carnival!!", artist: "MAHO-Dou" }
                     ];
 
                     let currentIndex = 0;
